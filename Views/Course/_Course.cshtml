@@ -3,11 +3,13 @@
 <div class="card mb-3" id="course_@Model.Id">
     <div class="row">
         <div class="col-md-3">
-            <img src="~/images/@Model.Image" width="200" height="120" class="img-fluid rounded-start">
+            <img src="~/images/@Model.Image" width="200"  class="img-fluid rounded-start">
         </div>
         <div class="col-md-9">
             <div class="card-body">
-                <h5 class="card-title">@Model.Title</h5>
+                <a hasp-controller="Course" asp-action="Details" asp-route-id="@Model.Id">
+                    <h5 class="card-title">@Model.Title</h5>
+                </a>
                 <p class="card-text">@Model.Description</p>
             </div>
         </div>

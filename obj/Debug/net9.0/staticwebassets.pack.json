@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Basic.9ktt8ctrgb.bundle.scp.css"
     },
     {
+      "Id": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
       "Id": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -27,6 +31,10 @@
     {
       "Id": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\4.jpg",
       "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
     },
     {
       "Id": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\js\\site.js",

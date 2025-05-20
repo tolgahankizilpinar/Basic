@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xxPhg+0xOrf97IyGo33/h9ZZ1OIA7NB0XIr8YsRiijQ=",
+  "Hash": "4nvDR39U8Fvl8Lky/YeRd7/ktvdUJcli8E4OZF76IKY=",
   "Source": "Basic",
   "BasePath": "_content/Basic",
   "Mode": "Default",
@@ -1067,6 +1067,27 @@
       "OriginalItemSpec": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
+      "Identity": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\utb8o1r93x-5ipweew5fc.gz",
+      "SourceId": "Basic",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Basic",
+      "RelativePath": "css/contact#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\contact.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\contact.css"
+    },
+    {
       "Identity": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\v6qe2we89p-2z0ns9nrw6.gz",
       "SourceId": "Basic",
       "SourceType": "Discovered",
@@ -1403,6 +1424,27 @@
       "OriginalItemSpec": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Basic.bundle.scp.css"
     },
     {
+      "Identity": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\contact.css",
+      "SourceId": "Basic",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\",
+      "BasePath": "_content/Basic",
+      "RelativePath": "css/contact#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contact.css"
+    },
+    {
       "Identity": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\site.css",
       "SourceId": "Basic",
       "SourceType": "Discovered",
@@ -1480,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lty0eofkyq",
-      "Integrity": "Sc4PNOvC2GcfFC8u8oJuxr/9i4xxi299zpN8YwoMjJc=",
+      "Fingerprint": "alxqng0lod",
+      "Integrity": "ctztDtcl+/f59WtDmjx0bOKrqASqU9YJFFUqb7AirAQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
@@ -1527,6 +1569,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    },
+    {
+      "Identity": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\5.jpg",
+      "SourceId": "Basic",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\",
+      "BasePath": "_content/Basic",
+      "RelativePath": "images/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o9abisonrp",
+      "Integrity": "RHVALqJwhR+ufCFA3wF7uW0NXQpmnvxH7L8CElTm9vw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.jpg"
     },
     {
       "Identity": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\js\\site.js",
@@ -3408,6 +3471,304 @@
       ]
     },
     {
+      "Route": "css/contact.5ipweew5fc.css",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\utb8o1r93x-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 10:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/contact.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/contact.5ipweew5fc.css",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\contact.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 10:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/contact.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/contact.5ipweew5fc.css.gz",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\utb8o1r93x-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 10:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/contact.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/contact.css",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\utb8o1r93x-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 10:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/contact.css",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\css\\contact.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 10:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/contact.css.gz",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\utb8o1r93x-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 10:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\obj\\Debug\\net9.0\\compressed\\p9u49yiswo-b9sayid5wm.gz",
       "Selectors": [
@@ -4086,6 +4447,51 @@
       ]
     },
     {
+      "Route": "images/2.alxqng0lod.jpg",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ctztDtcl+/f59WtDmjx0bOKrqASqU9YJFFUqb7AirAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 12:49:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "alxqng0lod"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ctztDtcl+/f59WtDmjx0bOKrqASqU9YJFFUqb7AirAQ="
+        }
+      ]
+    },
+    {
       "Route": "images/2.jpg",
       "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\2.jpg",
       "Selectors": [],
@@ -4096,7 +4502,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39045"
+          "Value": "285052"
         },
         {
           "Name": "Content-Type",
@@ -4104,11 +4510,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Sc4PNOvC2GcfFC8u8oJuxr/9i4xxi299zpN8YwoMjJc=\""
+          "Value": "\"ctztDtcl+/f59WtDmjx0bOKrqASqU9YJFFUqb7AirAQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:05:37 GMT"
+          "Value": "Tue, 20 May 2025 12:49:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4118,52 +4524,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Sc4PNOvC2GcfFC8u8oJuxr/9i4xxi299zpN8YwoMjJc="
-        }
-      ]
-    },
-    {
-      "Route": "images/2.lty0eofkyq.jpg",
-      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "39045"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Sc4PNOvC2GcfFC8u8oJuxr/9i4xxi299zpN8YwoMjJc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:05:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lty0eofkyq"
-        },
-        {
-          "Name": "label",
-          "Value": "images/2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Sc4PNOvC2GcfFC8u8oJuxr/9i4xxi299zpN8YwoMjJc="
+          "Value": "sha256-ctztDtcl+/f59WtDmjx0bOKrqASqU9YJFFUqb7AirAQ="
         }
       ]
     },
@@ -4328,6 +4689,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-xdQUL+oEgx//PVJfpcAY3FL2exDlXUC0QfYV/6Z/p+o="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.jpg",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHVALqJwhR+ufCFA3wF7uW0NXQpmnvxH7L8CElTm9vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 12:33:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHVALqJwhR+ufCFA3wF7uW0NXQpmnvxH7L8CElTm9vw="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.o9abisonrp.jpg",
+      "AssetFile": "D:\\MyCodingSamples\\AspNetCore\\Basic\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHVALqJwhR+ufCFA3wF7uW0NXQpmnvxH7L8CElTm9vw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 12:33:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o9abisonrp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHVALqJwhR+ufCFA3wF7uW0NXQpmnvxH7L8CElTm9vw="
         }
       ]
     },
